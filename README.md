@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 ## Skils
 
-I currently work professionally with TypeScript (NodeJS) and C# (.NET). I also have previous work experience and hobby projects in Python and Java.
+I currently work professionally with TypeScript (NodeJS) and C# (.NET). I also have previous work experience and hobby projects in Go, Python, and Java.
 
 [![C#](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp_32x32.png)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_32x32.png)](https://www.typescriptlang.org/)
 [![JavaScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_32x32.png)](https://www.javascript.com/)
+[![Go](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go_32x32.png)](https://go.dev/)
 [![Python](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png)](https://www.python.org/)
 [![Java](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java_32x32.png)](https://www.java.com/)
 
