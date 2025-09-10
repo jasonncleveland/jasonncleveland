@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 ## Skils
 
-I currently work professionally with TypeScript (NodeJS) and C# (.NET). I also have previous work experience and hobby projects in Go, Python, and Java.
+I currently work professionally with TypeScript (NodeJS) and C# (.NET). I also have previous work experience in Python and Java and hobby projects in Rust, Go.
 
 [![C#](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp_32x32.png)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_32x32.png)](https://www.typescriptlang.org/)
 [![JavaScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_32x32.png)](https://www.javascript.com/)
+[![Rust](https://www.rust-lang.org/logos/rust-logo-32x32.png)](https://www.rust-lang.org/)
 [![Go](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go_32x32.png)](https://go.dev/)
 [![Python](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png)](https://www.python.org/)
 [![Java](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java_32x32.png)](https://www.java.com/)
@@ -33,10 +34,9 @@ I started the challenge in 2022 to practice and learn the C# programming languag
 I continue to do the challenges each year and my goal is to go back and complete all 50 stars for every year since the challenge started in 2015.
 
 Years completed to 50 stars (so far):
-1. 2015 ✔️
-2. 2024 ✔️
-
-My solutions to Advent of Code can be found in my respository for the challenge https://github.com/jasonncleveland/adventofcode.
+1. 2015 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2015)
+2. 2019 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2019)
+3. 2024 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2024)
 
 ## Profile Stats
 
