@@ -35,8 +35,9 @@ I continue to do the challenges each year and my goal is to go back and complete
 
 Years completed to 50 stars (so far):
 1. 2015 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2015)
-2. 2019 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2019)
-3. 2024 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2024)
+2. 2018 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2018)
+3. 2019 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2019)
+4. 2024 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2024)
 
 ## Profile Stats
 
