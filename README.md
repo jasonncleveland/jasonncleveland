@@ -39,6 +39,7 @@ Years completed to 50 stars (so far):
 3. 2018 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2018)
 4. 2019 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2019)
 5. 2024 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2024)
+6. 2025 ✔️ [code](https://github.com/jasonncleveland/adventofcode/tree/master/2025)
 
 ## Profile Stats
 
